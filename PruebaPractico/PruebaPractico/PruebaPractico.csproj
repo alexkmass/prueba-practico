@@ -55,6 +55,10 @@
     <Compile Include="Context.cs" />
     <Compile Include="DBPlayerDataAccess.cs" />
     <Compile Include="DBTeamDataAccess.cs" />
+    <Compile Include="Migrations\201907030008525_FirstMigration.cs" />
+    <Compile Include="Migrations\201907030008525_FirstMigration.Designer.cs">
+      <DependentUpon>201907030008525_FirstMigration.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Player.cs" />
     <Compile Include="Program.cs" />
@@ -64,6 +68,11 @@
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Migrations\201907030008525_FirstMigration.resx">
+      <DependentUpon>201907030008525_FirstMigration.cs</DependentUpon>
+    </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

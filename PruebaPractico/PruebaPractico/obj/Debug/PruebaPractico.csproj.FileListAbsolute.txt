@@ -8,3 +8,5 @@ c:\users\gabriel\documents\visual studio 2015\Projects\PruebaPractico\PruebaPrac
 c:\users\gabriel\documents\visual studio 2015\Projects\PruebaPractico\PruebaPractico\obj\Debug\PruebaPractico.csprojResolveAssemblyReference.cache
 c:\users\gabriel\documents\visual studio 2015\Projects\PruebaPractico\PruebaPractico\obj\Debug\PruebaPractico.exe
 c:\users\gabriel\documents\visual studio 2015\Projects\PruebaPractico\PruebaPractico\obj\Debug\PruebaPractico.pdb
+c:\users\gabriel\documents\visual studio 2015\Projects\PruebaPractico\PruebaPractico\obj\Debug\PruebaPractico.Migrations.FirstMigration.resources
+c:\users\gabriel\documents\visual studio 2015\Projects\PruebaPractico\PruebaPractico\obj\Debug\PruebaPractico.csproj.GenerateResource.Cache
